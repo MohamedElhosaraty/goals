@@ -1,5 +1,11 @@
 {
-  "2weekToMonth": "من اسبوعين لشهر",
-  "AddressValidation": "من فضلك ادخل العنوان",
-  "GOALS": "الاهداف"
+  "GOALS": "الاهداف",
+  "Write your Goals" : "كتابه الهدف",
+  "Write Here....." : "الكتابه هنا",
+  "ADD" : "اضافه",
+  "Cancel" : "الغاء",
+  "Editing Goals" : "تعديل الهدف",
+  "Editing Now...." : "تعديل الان",
+  "Editing" : "تعديل",
+  "Remove" : "حذف"
 }

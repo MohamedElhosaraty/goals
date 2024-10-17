@@ -1,5 +1,11 @@
 {
-  "2weekToMonth": "2 weeks to a month",
-  "AddressValidation": "Please enter the address",
-  "GOALS": "GOALS"
+  "GOALS": "GOALS",
+  "Write your Goals": "Write your Goals",
+  "Write Here.....": "Write Here.....",
+  "ADD": "ADD",
+  "Cancel": "Cancel",
+  "Editing Goals": "Editing Goals",
+  "Editing Now....": "Editing Now....",
+  "Editing" : "Editing",
+  "Remove" : "Remove"
 }
